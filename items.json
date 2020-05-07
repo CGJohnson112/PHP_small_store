@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "item": "pencil",
+        "image": "img1.jpg",
+        "descrip": "Descript here",
+        "long_descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla voluptatem voluptates distinctio magni, veniam modi exercitationem tempora molestias voluptatum in odit, reiciendis dolores laudantium praesentium perferendis obcaecati consequuntur alias. Labore et quod consequuntur pariatur facilis architecto error, iure, sapiente aut id aliquid deserunt dignissimos illum delectus, ratione voluptas mollitia aspernatur quae minus nemo tempora quam. Voluptates, suscipit! Obcaecati natus fugit consequatur ratione veritatis.",
+        "cost": "19.95"
+    }, {
+        "id": 2,
+        "item": "cookie",
+        "image": "img2.jpg",
+        "descrip": "Descript here",
+        "long_descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla voluptatem voluptates distinctio magni, veniam modi exercitationem tempora molestias voluptatum in odit, reiciendis dolores laudantium praesentium perferendis obcaecati consequuntur alias. Labore et quod consequuntur pariatur facilis architecto error, iure, sapiente aut id aliquid deserunt dignissimos illum delectus, ratione voluptas mollitia aspernatur quae minus nemo tempora quam. Voluptates, suscipit! Obcaecati natus fugit consequatur ratione veritatis.",
+        "cost": "29.95"
+    }, {
+        "id": 3,
+        "item": "Cheese",
+        "image": "img3.jpg",
+        "descrip": "Nava wrss",
+        "long_descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla voluptatem voluptates distinctio magni, veniam modi exercitationem tempora molestias voluptatum in odit, reiciendis dolores laudantium praesentium perferendis obcaecati consequuntur alias. Labore et quod consequuntur pariatur facilis architecto error, iure, sapiente aut id aliquid deserunt dignissimos illum delectus, ratione voluptas mollitia aspernatur quae minus nemo tempora quam. Voluptates, suscipit! Obcaecati natus fugit consequatur ratione veritatis.",
+        "cost": "39.95"
+    }
+]
